@@ -1,0 +1,4 @@
+/app/catalog @my-org/catalog-team
+/app/checkout @my-org/checkout-team
+/tools @msadmin
+*.css @cssexpert
